@@ -1,9 +1,10 @@
 ## Hello World, I'm Khoi 👋
 
 ### 👨🏻‍💻 About Me
-- 🔭 I’m currently studying at Ho Chi Minh University of Sciences
+- 🔭 I’m currently working as researcher as AI Center, FPT Software.
+- 🏫 Studied at Ho Chi Minh University of Sciences
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with Data Science Career Path
+- 🤔 I’m looking for help with PhD Program
 - 💬 Ask me about Data structure and Algorithm
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can working continously for 24 hours, but I also can sleep in 5 seconds ^^
